@@ -1,0 +1,12 @@
+Instrukcja uruchomienia.
+-------------------------
+Najpierw oczywiście musimy mieć uruchomiony serwer OpenJMS na swoim komputerze.
+Program działa na consoli IDE. 
+1 Dla komfortu działania należy uruchomić dwie konsole(Open Console)
+2 Uruchomić program-Run
+3 Zmienić idCzatu na dowolny inny znak/liczbę
+4 zapisać zmianę
+5 uruchomić drugi raz program -run
+6 Podzielić ekran na dwie Console i wybrać Display Selected Console. Wybrać tą drugą
+Mamy dwie konsole gdzie w jednej pisze Chat1 a w drugiej Chat(znak na który zmieniłeś w punkcie 3)
+i piszemy w consolach.
